@@ -5,4 +5,5 @@
 ## TODO
 - include CL arguents here
 - include decent package management
+- add recursive support
 - [amogus](https://www.youtube.com/watch?v=KjnnowPspfg)
